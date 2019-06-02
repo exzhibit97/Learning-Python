@@ -4,7 +4,9 @@ Primitive example of "learning" done as exercise for class
     #rekordami zapisanymi w pliku learning.txt w sposob jak zaprezentowany nizej na przykladzie tabel
     #Int1 oraz Int2. Po podaniu przedzialow 1 i 2 nastepuje wyliczenie prawdopodobienstwa z jakim dane przedzialy
     # naleza do konkretnej klasy.
-
+    
+    PROGRAM URUCHAMIAMY Z PLIKU INDEX2.py - w pliku INDEX.py jest starsza wersja działająca bez naiwnego klasyfikatora                          bayesowskiego
+    
     #TO sa pogladowe tabele - tabela tableInterval1 oraz tableInterval2 (parametry aktualne funkcji naiveBayes
     #wygladaja tak samo:
     #Wartosci w kolumnach to nastepujaco:
